@@ -8,5 +8,6 @@ List of changes I made I thought would benefit the game :)
 - Fixed a bug with Sapphire's route not triggering properly
 - Changed color of text when selecting an option to be more readable
 - Unlocked all routes for the unfinished characters (Right before the date scene - Fancy bar is option to continue game) (thought it would be funny lol, can just comment them out again)
+- Added a new route
 
 Good game guys, I enjoyed it ^^
