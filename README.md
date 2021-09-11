@@ -1,7 +1,7 @@
 # ColorsofMurder-1.2-pc
 
 
-**!!NOT MY GAME!! - ALL CREDIT TO THE ORIGINAL OWNERS - Muder mystery based Renpy game**
+**!!NOT MY GAME!! - ALL CREDIT TO THE ORIGINAL OWNERS - Muder mystery based RenPy game**
 
 List of changes I made I thought would benefit the game :)
 - Added previous text to still display when making a choice
